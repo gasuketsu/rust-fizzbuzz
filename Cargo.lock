@@ -1,0 +1,4 @@
+[[package]]
+name = "rust-fizzbuzz"
+version = "0.1.0"
+
